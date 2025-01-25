@@ -27,8 +27,8 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-C++    1 hr 9 mins     ███████████████████▓░░░░░   78.59 %
-Java   18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+C++    2 hrs           █████████████████████▓░░░   86.20 %
+Java   19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
 ```
 
 <!--END_SECTION:waka-->
