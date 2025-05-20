@@ -27,11 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.44 %
-C++          4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-JSON         2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-JavaScript   2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+TypeScript   7 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.64 %
+C++          4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+JSON         2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+JavaScript   2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Markdown     55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
