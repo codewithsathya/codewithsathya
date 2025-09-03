@@ -27,8 +27,9 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-Go        43 mins         ███████████████████████▓░   95.17 %
-GraphQL   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Go        59 mins         ███████████████████████▓░   95.18 %
+GraphQL   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
