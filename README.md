@@ -7,7 +7,7 @@
 
 ### 🥰 Glad to see you here! &nbsp;
 
-I am an Associate Software Development Engineer working in Publicis Sapient. I love programming, reading tech blogs, playing games and listening music.
+I am an Founding Engineer working in Twinninglabs. I love programming, reading tech blogs, playing games and listening music.
 
 I like automating things which is why I like programming. I am also interested in self hosting applications for personal use and automations using server.
 
@@ -15,8 +15,8 @@ I like automating things which is why I like programming. I am also interested i
 
 😊 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently learning golang and looking forward to contribute to open source projects in golang;
-- 🔥 I'm also learning DSA and system design;
+- 🚀 I’m currently building some cool stuff for the startup I am working for;
+- 🔥 I'm also learning new technologies related to AI;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: codewithsathya@gmail.com;
 
