@@ -27,11 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Go           1 hr 51 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-YAML         1 hr 18 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Python       1 hr 4 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-TOML         39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Other        1 hr 18 mins          ███████░░░░░░░░░░░░░░░░░░   27.38 %
+Python       53 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+YAML         40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Docker       35 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Go           26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 ```
 
 <!--END_SECTION:waka-->
