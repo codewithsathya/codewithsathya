@@ -27,11 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 58 mins          ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-JavaScript   1 hr 30 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-Python       1 hr 5 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Markdown     54 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Bash         45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Rust         1 hr 58 mins          ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+JavaScript   1 hr 30 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Python       1 hr 5 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Markdown     54 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+TypeScript   46 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
 ```
 
 <!--END_SECTION:waka-->
