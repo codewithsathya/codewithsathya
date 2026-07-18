@@ -27,11 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     7 hrs 17 mins         ██████████░░░░░░░░░░░░░░░   39.59 %
-Python         3 hrs 58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-Assembly       1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-shell script   53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-YAML           51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+TypeScript     5 hrs 36 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
+Python         3 hrs 58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Assembly       1 hr                  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+YAML           51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+shell script   44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
