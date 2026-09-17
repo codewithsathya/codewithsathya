@@ -27,7 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-sshconfig   3 mins                █████████████████████████   100.00 %
+Markdown     12 mins               ██████████▓░░░░░░░░░░░░░░   42.03 %
+Go           7 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
+TypeScript   3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+sshconfig    3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+JSON         2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
 ```
 
 <!--END_SECTION:waka-->
