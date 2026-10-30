@@ -27,7 +27,11 @@ I like automating things which is why I like programming. I am also interested i
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash           2 hrs 33 mins         █████████▒░░░░░░░░░░░░░░░   37.64 %
+Python         2 hrs 7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+TypeScript     45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+SQL            24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+YAML           19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
